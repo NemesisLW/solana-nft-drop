@@ -1,6 +1,7 @@
 import React, { useEffect } from "react";
 import { WalletMultiButton } from "@solana/wallet-adapter-react-ui";
 import { useWallet } from '@solana/wallet-adapter-react';
+import CandyMachine from "../components/CandyMachine"
 
 // Constants
 const TWITTER_HANDLE = "_buildspace";
@@ -11,7 +12,7 @@ const Home = () => {
     useEffect(() => {
         renderNotConnectedContainer();
         if (wallet) {
-             console.log("Phantom Wallet Found.", wallet.publicKey.toString())
+             console.log("Phantom Wallet Found.", wallet.publicKey)
         }
         // Here I need a condition that checks if the wallet is connected
     }, [wallet]);
@@ -30,15 +31,25 @@ const Home = () => {
         <div className="App">
             <div className="container">
                 <div className="header-container">
-                    <p className="header">🍭 Candy Drop</p>
-                    <p className="sub-text">NFT drop machine with fair mint</p>
+                    <p className="header">Stable Diffusion Drop</p>
+                    <p className="sub-text">Noone cares really</p>
                     {/* Render your connect to wallet button right here */}
-                    {wallet.publicKey ? "Hello" : renderNotConnectedContainer()}
+                    {wallet.publicKey ? <CandyMachine walletAddress={wallet} /> : renderNotConnectedContainer()}
                 </div>
 
-                <div className="footer-container">
-                    <a className="footer-text" href={TWITTER_LINK} target="_blank" rel="noreferrer">{`built on @${TWITTER_HANDLE}`}</a>
-                </div>
+                
+                    <div className="badge-container grow">
+                        <a
+                        href="https://twitter.com/Arghyad18"
+                        target="_blank"
+                        rel="noreferrer"
+                        >
+                        <div className="badge">
+                            <p>build by Arghya</p>
+                        </div>
+                        </a>
+                    </div>
+               
             </div>
         </div>
     );

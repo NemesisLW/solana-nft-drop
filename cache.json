@@ -1,0 +1,81 @@
+{
+  "program": {
+    "candyMachine": "6aTYD5umKC7mFqaN4cg9ibyE6DpGP7jGbqbM9fHC6asD",
+    "candyMachineCreator": "2NUYrWLVh9KPZYnCWbPdbU4JUUCx5Sjzuk3is3yYXctu",
+    "collectionMint": ""
+  },
+  "items": {
+    "0": {
+      "name": "StableDiffusion-0",
+      "image_hash": "d700f03173cf4bd9251af9db207851b6c50c419acc81f85ff6590288809c5444",
+      "image_link": "https://nftstorage.link/ipfs/bafybeigcv57k45pl3v3pu35q47hrsf6cz7muw7srlmeskzxtfoqbbfpmua/0.png",
+      "metadata_hash": "c72bf585d7e9fce0475dd20e4e31d4f1c7bcc0e542b2ce87b3c2316c58ef6cd2",
+      "metadata_link": "https://nftstorage.link/ipfs/bafybeieo55o2gmunf3rqc4sbxw54m44xbfrl6tpzih267s47pebdxorpqq/0.json",
+      "onChain": true
+    },
+    "1": {
+      "name": "StableDiffusion-2",
+      "image_hash": "8d474e941c14b1fadaaff53a0bdfadf85b3c574c86d0cdc69e25980de3a16417",
+      "image_link": "https://nftstorage.link/ipfs/bafybeigcv57k45pl3v3pu35q47hrsf6cz7muw7srlmeskzxtfoqbbfpmua/1.png",
+      "metadata_hash": "425cae896acace58fe6c3f3ef39680f46a354a2ab814be291515ecbe6382404a",
+      "metadata_link": "https://nftstorage.link/ipfs/bafybeieo55o2gmunf3rqc4sbxw54m44xbfrl6tpzih267s47pebdxorpqq/1.json",
+      "onChain": true
+    },
+    "2": {
+      "name": "StableDiffusion-2",
+      "image_hash": "d8f18a127b60ac914e5f5026d178870c0edb4985d49586ff65eba3f88b28f4d2",
+      "image_link": "https://nftstorage.link/ipfs/bafybeigcv57k45pl3v3pu35q47hrsf6cz7muw7srlmeskzxtfoqbbfpmua/2.png",
+      "metadata_hash": "d17ef5159af884c85fbf93a4c5b7889d4d5ff93b0aed4d775a55cf73a047fc9c",
+      "metadata_link": "https://nftstorage.link/ipfs/bafybeieo55o2gmunf3rqc4sbxw54m44xbfrl6tpzih267s47pebdxorpqq/2.json",
+      "onChain": true
+    },
+    "3": {
+      "name": "StableDiffusion-3",
+      "image_hash": "b1c1ea42632799c45a7c061624aed0a68acdff13d54b1cdca778111be332e959",
+      "image_link": "https://nftstorage.link/ipfs/bafybeigcv57k45pl3v3pu35q47hrsf6cz7muw7srlmeskzxtfoqbbfpmua/3.png",
+      "metadata_hash": "b51d1f8f226c10289ad58b853e0db0c51d28cb4484d566e11cc209c138219372",
+      "metadata_link": "https://nftstorage.link/ipfs/bafybeieo55o2gmunf3rqc4sbxw54m44xbfrl6tpzih267s47pebdxorpqq/3.json",
+      "onChain": true
+    },
+    "4": {
+      "name": "StableDiffusion-4",
+      "image_hash": "54aa76a117097a87c49c3bb8f03313f817397ad00c7d0ce198ac06b075288ef5",
+      "image_link": "https://nftstorage.link/ipfs/bafybeigcv57k45pl3v3pu35q47hrsf6cz7muw7srlmeskzxtfoqbbfpmua/4.png",
+      "metadata_hash": "3a7c879cd4c3d211c233e6691b157939dca1a86d2023dd8394f2042f92de9580",
+      "metadata_link": "https://nftstorage.link/ipfs/bafybeieo55o2gmunf3rqc4sbxw54m44xbfrl6tpzih267s47pebdxorpqq/4.json",
+      "onChain": true
+    },
+    "5": {
+      "name": "StableDiffusion-5",
+      "image_hash": "868792d9bd72f66d8f97df983e316786a85f1d746c39dbea3e2c585c191963ee",
+      "image_link": "https://nftstorage.link/ipfs/bafybeigcv57k45pl3v3pu35q47hrsf6cz7muw7srlmeskzxtfoqbbfpmua/5.png",
+      "metadata_hash": "ed79182231af637f41e63536f99bc9338439747715ea0e82ad95ddb1e4a38f03",
+      "metadata_link": "https://nftstorage.link/ipfs/bafybeieo55o2gmunf3rqc4sbxw54m44xbfrl6tpzih267s47pebdxorpqq/5.json",
+      "onChain": true
+    },
+    "6": {
+      "name": "StableDiffusion-6",
+      "image_hash": "88037ef538c62e8dd049e0a655f1cd66db42d7325c2286f215513f90cee9ad44",
+      "image_link": "https://nftstorage.link/ipfs/bafybeigcv57k45pl3v3pu35q47hrsf6cz7muw7srlmeskzxtfoqbbfpmua/6.png",
+      "metadata_hash": "d5894aefd296be846dc7e2fe5e0c92cb67f9477db8c3f0b60735416b373ea701",
+      "metadata_link": "https://nftstorage.link/ipfs/bafybeieo55o2gmunf3rqc4sbxw54m44xbfrl6tpzih267s47pebdxorpqq/6.json",
+      "onChain": true
+    },
+    "7": {
+      "name": "StableDiffusion-7",
+      "image_hash": "b7484d768c9466628f2524112603a4b926282b4918c644c32987c1d92fdb2b96",
+      "image_link": "https://nftstorage.link/ipfs/bafybeigcv57k45pl3v3pu35q47hrsf6cz7muw7srlmeskzxtfoqbbfpmua/7.png",
+      "metadata_hash": "1edabed6d1e934d0e18a2c90b77e3c459bf6feeac9361156871f58a125fe0f0c",
+      "metadata_link": "https://nftstorage.link/ipfs/bafybeieo55o2gmunf3rqc4sbxw54m44xbfrl6tpzih267s47pebdxorpqq/7.json",
+      "onChain": true
+    },
+    "8": {
+      "name": "StableDiffusion-8",
+      "image_hash": "fe8c86a1aeecab6f849179ccac0c7dc5b2deb8843cccabdf79fe12b359399702",
+      "image_link": "https://nftstorage.link/ipfs/bafybeigcv57k45pl3v3pu35q47hrsf6cz7muw7srlmeskzxtfoqbbfpmua/8.png",
+      "metadata_hash": "851b6a90c4e9a7b4f6a84481fc2b683ff96397af168c089f650ca145fc148b85",
+      "metadata_link": "https://nftstorage.link/ipfs/bafybeieo55o2gmunf3rqc4sbxw54m44xbfrl6tpzih267s47pebdxorpqq/8.json",
+      "onChain": true
+    }
+  }
+}
