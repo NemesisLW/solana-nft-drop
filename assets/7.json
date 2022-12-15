@@ -1,0 +1,20 @@
+{
+    "name": "StableDiffusion-7",
+    "symbol": "SD",
+    "description": "Collection of 9 numbers on the blockchain. This is the number 1/9.",
+    "image": "7.png",
+    "attributes": [
+      {
+        "trait_type": "Number",
+        "value": "0"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "7.png",
+          "type": "image/png"
+        }
+      ]
+    }
+  }
